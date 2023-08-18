@@ -1,0 +1,91 @@
+/* Estilos para o body */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f8f8f8;
+  /* background-image: url("a.png"); */
+  background-size: cover;
+  background-position: center;
+  opacity: 0.9;
+}
+
+/* Estilos para o título das disciplinas */
+.disciplina h2 {
+  color: #4CAF50; /* Cor verde */
+}
+
+/* Estilos para a grade de disciplinas */
+.disciplinas {
+  display: grid; /* Usando grid layout para uma disposição mais flexível */
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Responsividade nas colunas */
+  gap: 20px; /* Espaçamento entre as disciplinas */
+  margin-top: 20px;
+}
+
+/* Estilos para cada disciplina */
+.disciplina {
+  /* Use duas cores que se misturem bem em um gradiente */
+  background-image: linear-gradient(to bottom right, #0004ff, #FFA500);
+  /* Para garantir que o texto seja legível, adicione uma sombra escura por trás */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+  /* Adicione uma borda colorida */
+  border: 2px solid #FF8C00; /* Cor laranja */
+  /* Remova a sombra no hover para destacar o gradiente */
+  box-shadow: none;
+  padding: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; /* Adicionando transformação suave */
+}
+
+/* Efeito de escala e sombra no hover */
+.disciplina:hover {
+  transform: scale(1.03);
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Estilos para o conteúdo */
+#conteudos {
+  margin-top: 40px;
+  text-align: center;
+}
+
+/* Estilos para a lista de conteúdos */
+#lista-conteudos {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Estilos para cada item da lista de conteúdos */
+#lista-conteudos li {
+  margin-bottom: 10px;
+  /* Adicionar ícones antes dos itens da lista */
+  list-style: none;
+  background-image: url('image/favicon.ico');
+  background-size: 20px;
+  background-repeat: no-repeat;
+  background-position: left center;
+  padding-left: 30px;
+}
+
+/* Estilos para os links */
+a {
+  color: #FF4500; /* Cor laranja avermelhada */
+  text-decoration: none;
+  transition: color 0.3s ease-in-out; /* Efeito de transição suave na cor */
+}
+
+/* Efeito de animação nos links no hover */
+@keyframes blink {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.6;
+  }
+}
+
+a:hover {
+  animation: blink 1s infinite; /* Adiciona a animação ao link no hover */
+}
