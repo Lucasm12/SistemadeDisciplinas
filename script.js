@@ -1,6 +1,7 @@
 const disciplinas = {
   disciplina1: {
     "Aula 01(11-08-2023)": "https://drive.google.com/file/d/1tYVpEAL7vWMdLngFfWnKn5fwkCLaPT2x/view?usp=drive_link",
+    "Aula 02(18-08-2023)": "https://drive.google.com/file/d/1RVwWlrZc-kUCwsZjNOZQnM8H1du6iFN3/view?usp=drive_link",
     
    
   },
