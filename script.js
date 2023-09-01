@@ -9,7 +9,7 @@ const disciplinas = {
     "Aula 01(10-08-2023)": "https://drive.google.com/file/d/1VhYT-eb48XpdnEC5nmTN643h_LYhWj8O/view?usp=drive_link",
     "Aula 02(17-08-2023)": "https://drive.google.com/file/d/1A44ktOGyzFodGs6ONdBWkBCH-i5apHYm/view?usp=drive_link",
     "Aula 03(24-08-2023)": "https://drive.google.com/file/d/13HGtXEFwYTA8Om5XK05ztBgqVIYuYdZR/view?usp=drive_link",
-    "Primeira Avalidaçã (31-08-2023)": "https://drive.google.com/file/d/1gQD0HYfCMeEtdUxLLy5eUPPsrAWkFCWY/view?usp=drive_link",
+    "Primeira Avaliação(31-08-2023)": "https://drive.google.com/file/d/1gQD0HYfCMeEtdUxLLy5eUPPsrAWkFCWY/view?usp=drive_link",
     
    
   },
