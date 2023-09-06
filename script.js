@@ -4,7 +4,7 @@ const disciplinas = {
     "Aula 02(18-08-2023)": "https://drive.google.com/file/d/1RVwWlrZc-kUCwsZjNOZQnM8H1du6iFN3/view?usp=drive_link",
      "Aula 03(25-08-2023)": "https://drive.google.com/file/d/1lfud76Y7NrwYST1lFywZ1fHaLaeXeFLt/view?usp=drive_link",
      "Primeira Avaliação(01-09-2023)": "https://drive.google.com/file/d/1jSbV8qwiDJGooBxTLvIlU_NAcelSDUTC/view?usp=drive_link",
-      "Aula 04(08-09-2023)": "https://drive.google.com/file/d/1SXK5KuKOnPec9Z5GYXJJPxvO5qvLD_Z9/view?usp=drive_link",
+      "Aula 04(08-09-2023)": "https://drive.google.com/file/d/1jSbV8qwiDJGooBxTLvIlU_NAcelSDUTC/view?usp=drive_link",
    
   },
   disciplina2: {
