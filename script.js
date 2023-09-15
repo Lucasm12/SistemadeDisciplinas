@@ -5,6 +5,7 @@ const disciplinas = {
      "Aula 03(25-08-2023)": "https://drive.google.com/file/d/1lfud76Y7NrwYST1lFywZ1fHaLaeXeFLt/view?usp=drive_link",
      "Primeira Avaliação(01-09-2023)": "https://drive.google.com/file/d/1jSbV8qwiDJGooBxTLvIlU_NAcelSDUTC/view?usp=drive_link",
       "Aula 04(08-09-2023)": "https://drive.google.com/file/d/1mNcVefwpG75w2cyVq4TK82s-Rob85t7W/view?usp=drive_link",
+      "Aula 05(15-09-2023)": "https://drive.google.com/file/d/19hueILm04HMjRnEvzwe1ud80yHJV8JaY/view?usp=drive_link",
    
   },
   disciplina2: {
