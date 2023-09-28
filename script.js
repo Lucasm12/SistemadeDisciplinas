@@ -15,7 +15,7 @@ const disciplinas = {
     "Primeira Avaliação(31-08-2023)": "https://drive.google.com/file/d/1gQD0HYfCMeEtdUxLLy5eUPPsrAWkFCWY/view?usp=drive_link",
      "Aula 04(14-09-2023)": "https://drive.google.com/file/d/1HSy-93Bp2mcNsMrUBxy9tEFMaHqhbE22/view?usp=drive_link",
      "Aula 05(21-09-2023)": "https://drive.google.com/file/d/1-pS12HEKE1q4BBMMUTZsq3aHC2JL68N3/view?usp=drive_link",
-      "Aula 05(28-09-2023)": "https://drive.google.com/file/d/1a_ZY3oXeaoBHzb2kmLL82Qw_C8COhe6K/view?usp=drive_link",
+      "Aula 06(28-09-2023)": "https://drive.google.com/file/d/1a_ZY3oXeaoBHzb2kmLL82Qw_C8COhe6K/view?usp=drive_link",
    
     
    
