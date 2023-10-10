@@ -7,6 +7,7 @@ const disciplinas = {
       "Aula 04(08-09-2023)": "https://drive.google.com/file/d/1mNcVefwpG75w2cyVq4TK82s-Rob85t7W/view?usp=drive_link",
       "Aula 05(15-09-2023)": "https://drive.google.com/file/d/19hueILm04HMjRnEvzwe1ud80yHJV8JaY/view?usp=drive_link",
      "Aula 06(29-09-2023)": "https://drive.google.com/file/d/1BTI-IxfZgleJCfu3BuSX217N9kRIssLc/view?usp=drive_link",
+     "Aula 07(12-10-2023)": "https://drive.google.com/file/d/1waY5cVsUWqq1I_y-wDqqB6OM33loxnln/view?usp=drive_link",
     
    
   },
