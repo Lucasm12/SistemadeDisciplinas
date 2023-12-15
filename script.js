@@ -27,6 +27,13 @@ const disciplinas = {
     
    
   },
+   disciplina3: {
+   
+  },
+
+  disciplina4: {
+   
+  },
 };
 
 function exibirConteudos(disciplina) {
