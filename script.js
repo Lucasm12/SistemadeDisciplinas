@@ -33,7 +33,9 @@ const disciplinas = {
 
   disciplina4: {
     "Aula 01(26-02-2024)":"https://drive.google.com/file/d/1EdE4BV3dcJCv84OGvQ79ZFQdYBVBPHoI/view?usp=drive_link",
-     "Divisão do Time":"https://docs.google.com/spreadsheets/d/1xD_jcVov_JMbo-sFJBb5RLJJ0QEMXzSnEijB6y_pXtE/edit?usp=sharing",
+     // "Aula 01(26-02-2024) Divisão do Time":"https://docs.google.com/spreadsheets/d/1xD_jcVov_JMbo-sFJBb5RLJJ0QEMXzSnEijB6y_pXtE/edit?usp=sharing",
+    <a href="https://docs.google.com/spreadsheets/d/1xD_jcVov_JMbo-sFJBb5RLJJ0QEMXzSnEijB6y_pXtE/edit?usp=sharing" target="_blank">Aula 01(26-02-2024) Divisão do Time</a>
+
   },
 };
 
