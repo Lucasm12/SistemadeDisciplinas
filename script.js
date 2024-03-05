@@ -40,6 +40,9 @@ const disciplinas = {
   disciplina4: {
     "Aula 01(26-02-2024)":"https://drive.google.com/file/d/1EdE4BV3dcJCv84OGvQ79ZFQdYBVBPHoI/view?usp=drive_link",
     "Aula 01(26-02-2024) Divisão do Time":"https://docs.google.com/spreadsheets/d/1xD_jcVov_JMbo-sFJBb5RLJJ0QEMXzSnEijB6y_pXtE/edit?usp=sharing",
+    "Aula 02(05-03-2024) Documento de Especificações":"https://drive.google.com/file/d/1M6xkijldIGfHkw1tUMIKbkteBlEZbvMc/view?usp=drive_link",
+    "Aula 02(05-03-2024) Requisito das Telas":"https://drive.google.com/file/d/1f_1t9eJb00JWm1afFrDBCVP63Co29yai/view?usp=drive_link",
+    
 
   },
 };
