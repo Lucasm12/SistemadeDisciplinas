@@ -42,7 +42,8 @@ const disciplinas = {
     "Aula 01(26-02-2024) Divisão do Time":"https://docs.google.com/spreadsheets/d/1xD_jcVov_JMbo-sFJBb5RLJJ0QEMXzSnEijB6y_pXtE/edit?usp=sharing",
     "Aula 02(05-03-2024) Documento de Especificações":"https://drive.google.com/file/d/1M6xkijldIGfHkw1tUMIKbkteBlEZbvMc/view?usp=drive_link",
     "Aula 02(05-03-2024) Requisito das Telas":"https://drive.google.com/file/d/1f_1t9eJb00JWm1afFrDBCVP63Co29yai/view?usp=drive_link",
-    "Aula 03(19-03-2024)": "https://drive.google.com/file/d/1RVwWlrZc-kUCwsZjNOZQnM8H1du6iFN3/view?usp=drive_link",
+    "Aula 03(12-03-2024)": "https://drive.google.com/file/d/1tYVpEAL7vWMdLngFfWnKn5fwkCLaPT2x/view?usp=drive_link",
+    "Aula 04(19-03-2024)": "https://drive.google.com/file/d/1RVwWlrZc-kUCwsZjNOZQnM8H1du6iFN3/view?usp=drive_link",
     "Revisão(19-03-2024)": "https://drive.google.com/file/d/1rTPvyXaKGP1CsKKJwkLVLU-qddXSnW3r/view?usp=drive_link",
     // "Respostas 03(19-03-2024)": "https://drive.google.com/file/d/1lfud76Y7NrwYST1lFywZ1fHaLaeXeFLt/view?usp=drive_link",
     
