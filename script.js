@@ -29,13 +29,14 @@ const disciplinas = {
   },
    disciplina3: {
      "Aula 01": "https://drive.google.com/file/d/1jQonymtBHkNRzWAZPqNLNtUzCAh1kFBg/view?usp=drive_link",
+     "Atividade 01" : "https://drive.google.com/file/d/1-QBeHYP4nv3jNfeD5FZ_lnXrLcUd_ajg/view?usp=drive_link",
      "Aula 02": "https://drive.google.com/file/d/1PX0LixN_Tpfl3GRbKMtOIpHVq1_0ai4p/view?usp=drive_link",
      "Aula 03": "https://drive.google.com/file/d/1FKs-Ux-xZCIo7L2114oQHOhY0rT-h0Bd/view?usp=drive_link",
      "Aula 04": "https://drive.google.com/file/d/1w-HAi-2HOuws85L_HIbCV4j7p2VnoMOP/view?usp=drive_link",
      "Aula 05": "https://drive.google.com/file/d/1cJ-6etwqNZQeHfIfvXCBouQ8ndE-Z-P9/view?usp=drive_link",
      "Aula 06": "https://drive.google.com/file/d/1b1w6lSRmpE_ZtsCiC1EEJ8mZvEUC82nq/view?usp=drive_link",
      "Aula 07": "https://drive.google.com/file/d/1cuINZFyomj1GFjXOIKrMpkyupbKDMRq3/view?usp=drive_link",
-     "Atividade 01" : "https://docs.google.com/document/d/134XhWeWVqzq_c3019ISOHPtHs5Hagmf9/edit?usp=drive_link&ouid=110128864082531091825&rtpof=true&sd=true",
+     
   },
 
   disciplina4: {
