@@ -35,6 +35,7 @@ const disciplinas = {
      "Aula 05": "https://drive.google.com/file/d/1cJ-6etwqNZQeHfIfvXCBouQ8ndE-Z-P9/view?usp=drive_link",
      "Aula 06": "https://drive.google.com/file/d/1b1w6lSRmpE_ZtsCiC1EEJ8mZvEUC82nq/view?usp=drive_link",
      "Aula 07": "https://drive.google.com/file/d/1cuINZFyomj1GFjXOIKrMpkyupbKDMRq3/view?usp=drive_link",
+     "Atividade 01" : "https://docs.google.com/document/d/134XhWeWVqzq_c3019ISOHPtHs5Hagmf9/edit?usp=drive_link&ouid=110128864082531091825&rtpof=true&sd=true",
   },
 
   disciplina4: {
