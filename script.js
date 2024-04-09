@@ -52,7 +52,7 @@ const disciplinas = {
     "1º Avaliação(26-03-2024)": "https://drive.google.com/file/d/1YnNGBosczvG2lIoCBGmoQT8Dc52amY4y/view?usp=drive_link",
     "Aula 05 (02-04-2024)": "https://drive.google.com/file/d/1QBRq3oSFcAKctTdv9Td670sZiGVEMn16/view?usp=drive_link",
     "Desafio 01 (02-04-2024)": "https://drive.google.com/drive/folders/13xE7rT6SkcEBKtlU0vg1JPLfK75c7-VU?usp=drive_link",
-    "Desafio 02 (09-04-2024)": "https://drive.google.com/file/d/14tSf2GSTSUYMgA8MStLqFnKLLQzhvBwI/view?usp=drive_link",
+    "Desafio 02 (09-04-2024)": "https://drive.google.com/file/d/1u3W956cn0XiDbn6vO8ODcmlyk3PvzqLt/view?usp=drive_link",
      
     
     
