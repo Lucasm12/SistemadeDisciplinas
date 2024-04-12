@@ -36,7 +36,7 @@ const disciplinas = {
      "Aula 05": "https://drive.google.com/file/d/1cJ-6etwqNZQeHfIfvXCBouQ8ndE-Z-P9/view?usp=drive_link",
      "Aula 06": "https://drive.google.com/file/d/1b1w6lSRmpE_ZtsCiC1EEJ8mZvEUC82nq/view?usp=drive_link",
      "Aula 07": "https://drive.google.com/file/d/1cuINZFyomj1GFjXOIKrMpkyupbKDMRq3/view?usp=drive_link",
-     "Primeira Avaliação (05-04-2023)": "https://drive.google.com/file/d/1d6qNlh0M33K8bMD0Z8e0YfXlVDe07sAD/view?usp=drive_link",
+     "Primeira Avaliação (05-04-2023)": "https://drive.google.com/file/d/1RZ2xzc7mv6I45pBrfbxDHRN57HuWWW1u/view?usp=drive_link",
      
   },
 
