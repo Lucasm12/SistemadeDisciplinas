@@ -52,9 +52,9 @@ const disciplinas = {
     "1º Avaliação(26-03-2024)": "https://drive.google.com/file/d/1YnNGBosczvG2lIoCBGmoQT8Dc52amY4y/view?usp=drive_link",
     "Aula 05 (02-04-2024)": "https://drive.google.com/file/d/1QBRq3oSFcAKctTdv9Td670sZiGVEMn16/view?usp=drive_link",
     "Desafio 01 (02-04-2024)": "https://drive.google.com/drive/folders/13xE7rT6SkcEBKtlU0vg1JPLfK75c7-VU?usp=drive_link",
-    "Desafio 01 (Resolução) (02-04-2024)": "https://drive.google.com/file/d/1I9sxALAq3Nt_obvF8sumqrytT0GmihFK/view?usp=drive_link",
+    // "Desafio 01 (Resolução) (02-04-2024)": "https://drive.google.com/file/d/1I9sxALAq3Nt_obvF8sumqrytT0GmihFK/view?usp=drive_link",
     "Desafio 02 (09-04-2024)": "https://drive.google.com/file/d/1u3W956cn0XiDbn6vO8ODcmlyk3PvzqLt/view?usp=drive_link",
-    "Desafio 02 (Resolução) (09-04-2024)": "https://drive.google.com/file/d/1N3U9SyTjz_pQ1HPDcThDU-NMrPn6UJaT/view?usp=drive_link",
+    // "Desafio 02 (Resolução) (09-04-2024)": "https://drive.google.com/file/d/1N3U9SyTjz_pQ1HPDcThDU-NMrPn6UJaT/view?usp=drive_link",
      "Desafio 03,04 e 05 (16-04-2024)": "https://drive.google.com/file/d/1OB0_r5RV3OusDLR5ihMRWl2EypxmrHm6/view?usp=drive_link",
       "Desafio 03,04 e 05 (Como deve ser feito)": "https://drive.google.com/file/d/1j1GeFeE-JX2FWBrhaoq2qZLPI7lEcorg/view?usp=drive_link",
       
