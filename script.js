@@ -55,6 +55,10 @@ const disciplinas = {
     "Desafio 01 (Resolução) (02-04-2024)": "https://drive.google.com/file/d/1I9sxALAq3Nt_obvF8sumqrytT0GmihFK/view?usp=drive_link",
     "Desafio 02 (09-04-2024)": "https://drive.google.com/file/d/1u3W956cn0XiDbn6vO8ODcmlyk3PvzqLt/view?usp=drive_link",
     "Desafio 02 (Resolução) (09-04-2024)": "https://drive.google.com/file/d/1N3U9SyTjz_pQ1HPDcThDU-NMrPn6UJaT/view?usp=drive_link",
+     "Desafio 03,04 e 05 (16-04-2024)": "https://drive.google.com/file/d/1OB0_r5RV3OusDLR5ihMRWl2EypxmrHm6/view?usp=drive_link",
+      "Desafio 03,04 e 05 (Como deve ser feito)": "chrome-extension://okkffdhbfplmbjblhgapnchjinanmnij/videoPreview/videoPreview.html?id=1713295564151",
+      
+    
      
 
   },
