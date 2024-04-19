@@ -37,6 +37,7 @@ const disciplinas = {
      "Aula 06": "https://drive.google.com/file/d/1b1w6lSRmpE_ZtsCiC1EEJ8mZvEUC82nq/view?usp=drive_link",
      "Aula 07": "https://drive.google.com/file/d/1cuINZFyomj1GFjXOIKrMpkyupbKDMRq3/view?usp=drive_link",
      "Primeira Avaliação (05-04-2023)": "https://drive.google.com/file/d/1RZ2xzc7mv6I45pBrfbxDHRN57HuWWW1u/view?usp=drive_link",
+     "Atividade Extra (19-04-2023)": "https://drive.google.com/file/d/1qRKdRLSzC-itWG9UtCR8yFxzj601y9HJ/view?usp=drive_link",
      
   },
 
