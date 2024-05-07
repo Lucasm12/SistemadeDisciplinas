@@ -60,6 +60,7 @@ const disciplinas = {
       "Desafio 03,04 e 05 (Como deve ser feito)": "https://drive.google.com/file/d/1j1GeFeE-JX2FWBrhaoq2qZLPI7lEcorg/view?usp=drive_link",
       "Desafio 03,04 e 05 (Respostas)": "https://drive.google.com/file/d/1jRAqt1Xi1QfS9X2EC9fAO77t_x9Hrzvq/view?usp=drive_link",
       "Aula 6": "https://drive.google.com/file/d/1yTbypaGrLT6M2_fs2A4qsDS4qmWk0pvk/view?usp=drive_link",
+     "Aula 07(07-05-2024)": "https://drive.google.com/file/d/1tXdyXlGjMjGsuWRyYxawVD-jKTjcX8cw/view?usp=drive_link",
       
     
      
