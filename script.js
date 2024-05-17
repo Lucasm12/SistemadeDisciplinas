@@ -37,7 +37,8 @@ const disciplinas = {
      "Aula 06": "https://drive.google.com/file/d/1b1w6lSRmpE_ZtsCiC1EEJ8mZvEUC82nq/view?usp=drive_link",
      "Aula 07": "https://drive.google.com/file/d/1cuINZFyomj1GFjXOIKrMpkyupbKDMRq3/view?usp=drive_link",
      "Primeira Avaliação (05-04-2023)": "https://drive.google.com/file/d/1RZ2xzc7mv6I45pBrfbxDHRN57HuWWW1u/view?usp=drive_link",
-     "Atividade Extra (19-04-2023)": "https://drive.google.com/file/d/1qRKdRLSzC-itWG9UtCR8yFxzj601y9HJ/view?usp=drive_link",
+     "Atividade de Fixação  1 (19-04-2023)": "https://drive.google.com/file/d/1qRKdRLSzC-itWG9UtCR8yFxzj601y9HJ/view?usp=drive_link",
+      "Atividade de Fixação  2 (17-05-2023)": "https://drive.google.com/file/d/1_ftbA67AjZl2mZ47UWe3GisGYHPFF4Pq/view?usp=drive_link",
      
   },
 
@@ -61,6 +62,7 @@ const disciplinas = {
       "Desafio 03,04 e 05 (Respostas)": "https://drive.google.com/file/d/1jRAqt1Xi1QfS9X2EC9fAO77t_x9Hrzvq/view?usp=drive_link",
       "Aula 6": "https://drive.google.com/file/d/1yTbypaGrLT6M2_fs2A4qsDS4qmWk0pvk/view?usp=drive_link",
      "Aula 07(07-05-2024)": "https://drive.google.com/file/d/1tXdyXlGjMjGsuWRyYxawVD-jKTjcX8cw/view?usp=drive_link",
+     "2º Avaliação(14-05-2024)": "https://drive.google.com/file/d/1sBzu_BX97Kjb6yJBGfbWtknVNaj-V9Ok/view?usp=drive_link",
       
     
      
