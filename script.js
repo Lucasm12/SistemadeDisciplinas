@@ -63,6 +63,7 @@ const disciplinas = {
       "Aula 6": "https://drive.google.com/file/d/1yTbypaGrLT6M2_fs2A4qsDS4qmWk0pvk/view?usp=drive_link",
      "Aula 07(07-05-2024)": "https://drive.google.com/file/d/1tXdyXlGjMjGsuWRyYxawVD-jKTjcX8cw/view?usp=drive_link",
      "2º Avaliação(14-05-2024)": "https://drive.google.com/file/d/1sBzu_BX97Kjb6yJBGfbWtknVNaj-V9Ok/view?usp=drive_link",
+     "Trabalho Final": "https://drive.google.com/file/d/1en2UlEztmGkf4XvS4KG0guY218lB5mb7/view?usp=drive_link",
       
     
      
