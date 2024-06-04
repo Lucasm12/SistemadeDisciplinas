@@ -65,7 +65,7 @@ const disciplinas = {
      "2º Avaliação(14-05-2024)": "https://drive.google.com/file/d/1sBzu_BX97Kjb6yJBGfbWtknVNaj-V9Ok/view?usp=drive_link",
      "Trabalho Final": "https://drive.google.com/file/d/1en2UlEztmGkf4XvS4KG0guY218lB5mb7/view?usp=drive_link",
       "Atividade Js(28-05-2024": "https://drive.google.com/file/d/1PqI2iGX291-ewR1PVCjlVrZsJlt5OCna/view?usp=drive_link",
-       // "Atividade Js_2(04-06-2024)": "https://drive.google.com/file/d/1mAvvPns_9oRzbhp5WR8tFhl5YOsqu39U/view?usp=drive_link",
+       "Atividade Js_2(04-06-2024)": "https://drive.google.com/file/d/1mAvvPns_9oRzbhp5WR8tFhl5YOsqu39U/view?usp=drive_link",
     
      
 
